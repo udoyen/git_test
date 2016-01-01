@@ -31,6 +31,11 @@ example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
+   + I can make it happen.
+   - I was the one calling.
+   
+*The only thing left to do, is love;
+
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
