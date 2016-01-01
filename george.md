@@ -34,7 +34,8 @@ Some text to show that the reference links can follow later.
    + I can make it happen.
    - I was the one calling.
    
-*The only thing left to do, is love;
+*The only thing left to do, is love;*
+*__I can try one more time__*
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
